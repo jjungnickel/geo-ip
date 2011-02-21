@@ -4,7 +4,7 @@
   <groupId>com.maxmind</groupId>
   <artifactId>geoip</artifactId>
   <packaging>jar</packaging>
-  <version>1.2.3</version>
+  <version>1.2.4</version>
   <name>geo-api</name>
   <url>http://www.maxmind.com/</url>
   <dependencies>
